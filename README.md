@@ -15,7 +15,7 @@ ________  ___  _____ ______   ________  ___       _______           ________  __
 ![GitHub](https://img.shields.io/github/license/sleepiie/simple-pip?style=for-the-badge)
 ![GitHub manifest version](https://img.shields.io/github/manifest-json/v/sleepiie/simple-pip?style=for-the-badge)
 
-A simple Chrome extension which expands on [Google's official extension](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg).
+A simple Chrome extension to pop out videos, which expands on [Google's official extension](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg).
 
 ## Installation
 
