@@ -24,3 +24,7 @@ A simple Chrome extension which expands on [Google's official extension](https:/
 - Make sure *developer mode* is enabled on the top right so you can load the extension
 3. Select *Load extension*
 4. Select the release folder
+
+## Light mode compatible
+
+If you use Chrome Light Mode, a set of supplementary icons are available under the **light-mode-icons** branch.
