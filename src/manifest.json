@@ -1,6 +1,6 @@
 {
-  "name": "Picture-in-Picture",
-  "description": "Watch videos using Picture-in-Picture",
+  "name": "Simple Picture-in-Picture",
+  "description": "Watch videos using Picture-in-Picture; built for Chrome dark mode",
   "version": "1.10",
   "icons": {
     "128": "assets/icon128.png"
