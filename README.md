@@ -23,7 +23,7 @@ A simple Chrome extension to pop out videos, which expands on [Google's official
 2. Open Chrome's extension page (chrome://extensions)
 - Make sure *developer mode* is enabled on the top right so you can load the extension
 3. Select *Load extension*
-4. Select the release folder
+4. Select the release folder's *src* directory
 
 ## Light mode compatible
 
