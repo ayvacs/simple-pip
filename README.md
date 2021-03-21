@@ -21,7 +21,8 @@ A simple Chrome extension which expands on [https://chrome.google.com/webstore/d
 
 ## Installation
 
-1. Download the [https://github.com/sleepiie/simple-pip/releases](latest release) and unzip it
-2. Open Chrome's [chrome://exensions](extension page)
+1. Download the [latest release](https://github.com/sleepiie/simple-pip/releases) and unzip it
+2. Open Chrome's extension page (chrome://extensions)
+- Make sure *developer mode* is enabled on the top right so you can load the extension
 3. Select *Load extension*
 4. Select the release folder
