@@ -13,6 +13,8 @@ ________  ___  _____ ______   ________  ___       _______           ________  __
 
 A simple Chrome extension to pop out videos, which expands on [Google's official extension](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg).
 
+![Example image](https://raw.githubusercontent.com/sleepiie/simple-pip/main/screenshot.png)
+
 ## Installation
 
 1. Download the [latest release](https://github.com/sleepiie/simple-pip/releases) and unzip it
