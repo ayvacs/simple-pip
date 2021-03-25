@@ -11,6 +11,12 @@ ________  ___  _____ ______   ________  ___       _______           ________  __
 
 # simple-pip
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/sleepiie/simple-pip?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/sleepiie/simple-pip?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/sleepiie/simple-pip?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/sleepiie/simple-pip?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/sleepiie/simple-pip?style=for-the-badge)
+
 A simple Chrome extension to pop out videos, which expands on [Google's official extension](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg).
 
 ![Example image](https://raw.githubusercontent.com/sleepiie/simple-pip/main/screenshot.png)
