@@ -6,9 +6,6 @@
   <a href="https://github.com/sleepiie/simple-pip/releases" target="_blank">
     <img alt="version" src="https://img.shields.io/github/v/release/sleepiie/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/sleepiie/simple-pip/releases" target="_blank">
-    <img alt="downloads" src="https://img.shields.io/github/downloads/sleepiie/simple-pip?style=for-the-badge" />
-  </a>
   <a href="https://github.com/sleepiie/simple-pip/blob/master/LICENSE.md" target="_blank">
     <img alt="license" src="https://img.shields.io/github/license/sleepiie/simple-pip?style=for-the-badge" />
   </a>
