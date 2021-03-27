@@ -1,25 +1,20 @@
-```text
-________  ___  _____ ______   ________  ___       _______           ________  ___  ________   
-|\   ____\|\  \|\   _ \  _   \|\   __  \|\  \     |\  ___ \         |\   __  \|\  \|\   __  \  
-\ \  \___|\ \  \ \  \\\__\ \  \ \  \|\  \ \  \    \ \   __/|        \ \  \|\  \ \  \ \  \|\  \
-\ \_____  \ \  \ \  \\|__| \  \ \   ____\ \  \    \ \  \_|/__       \ \   ____\ \  \ \   ____\
- \|____|\  \ \  \ \  \    \ \  \ \  \___|\ \  \____\ \  \_|\ \       \ \  \___|\ \  \ \  \___|
-   ____\_\  \ \__\ \__\    \ \__\ \__\    \ \_______\ \_______\       \ \__\    \ \__\ \__\   
-  |\_________\|__|\|__|     \|__|\|__|     \|_______|\|_______|        \|__|     \|__|\|__|   
-  \|_________|       
-```
+![Example image](https://raw.githubusercontent.com/sleepiie/simple-pip/main/screenshot.png)
 
-# simple-pip
+<h1 align="center">simple-pip</h1>
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/sleepiie/simple-pip?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/sleepiie/simple-pip?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/sleepiie/simple-pip?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/sleepiie/simple-pip?style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/sleepiie/simple-pip?style=for-the-badge)
+<p align="center">
+  <a href="https://github.com/sleepiie/simple-pip/releases" target="_blank">
+    <img alt="downloads" src="https://img.shields.io/github/v/release/sleepiie/simple-pip?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/sleepiie/simple-pip/releases" target="_blank">
+    <img alt="downloads" src="https://img.shields.io/github/downloads/sleepiie/simple-pip?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/sleepiie/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="license" src="https://img.shields.io/github/license/sleepiie/simple-pip?style=for-the-badge" />
+  </a>
+</p>
 
 A simple Chrome extension to pop out videos, which expands on [Google's official extension](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg).
-
-![Example image](https://raw.githubusercontent.com/sleepiie/simple-pip/main/screenshot.png)
 
 ## Installation
 
