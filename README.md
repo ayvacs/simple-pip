@@ -22,6 +22,12 @@
 
 <p align="center">A simple Chrome extension to pop out videos.</p>
 
+***
+
+[Documentation is now available!](https://sleepiie.github.io/simple-pip)
+
+***
+
 ## Installation
 
 1. Download the [latest release](https://github.com/sleepiie/simple-pip/releases) and unzip it
