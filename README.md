@@ -20,7 +20,7 @@
   </a>
 </p>
 
-A simple Chrome extension to pop out videos, which expands on [Google's official extension](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg).
+<p align="center">A simple Chrome extension to pop out videos.</p>
 
 ## Installation
 
