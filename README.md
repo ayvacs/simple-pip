@@ -32,4 +32,4 @@
 
 ## Light mode compatible
 
-If you use Chrome Light Mode, a set of supplementary icons are available under the **light-mode-icons** branch.
+If you use Chrome Light Mode, a set of supplementary icons are available under the **light-mode-icons** branch. A tutorial for installing them are available [here](https://github.com/sleepiie/simple-pip/wiki/Using-light-mode-icons).
