@@ -22,16 +22,6 @@
 
 <p align="center">A simple Chrome extension to pop out videos.</p>
 
-<h2 align="center"><a href=https://sleepiie.github.io/simple-pip>Documentation is now available!</a></h2>
-
 ## Installation
 
-1. Download the [latest release](https://github.com/sleepiie/simple-pip/releases) and unzip it
-2. Open Chrome's extension page (chrome://extensions)
-- Make sure *developer mode* is enabled on the top right so you can load the extension
-3. Select *Load extension*
-4. Select the release folder's *src* directory
-
-## Light mode compatible
-
-If you use Chrome Light Mode, a set of supplementary icons are available under the **light-mode-icons** branch. A tutorial for installing them are available [here](https://github.com/sleepiie/simple-pip/wiki/Using-light-mode-icons).
+<p>To view the installation instructions, please read the <a href="https://sleepiie.github.io/simple-pip">project documentation</a>.</p>
