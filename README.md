@@ -25,3 +25,5 @@
 ## Installation
 
 <p>To view the installation instructions, please read the <a href="https://sleepiie.github.io/simple-pip">project documentation</a>.</p>
+
+<b>Documentation is currently being moved to js.org.</b>
