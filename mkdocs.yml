@@ -1,0 +1,30 @@
+site_name: simple-pip
+repo_url: 'https://github.com/sleepiie/simple-pip'
+repo_name: sleepiie/simple-pip
+theme:
+  name: null
+  custom_dir: mkdocs-material/material
+  logo: assets/icon.png
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    scheme: slate
+    primary: black
+    accent: indigo
+  features:
+    - navigation.tabs
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Necessary for search to work properly
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.ico
