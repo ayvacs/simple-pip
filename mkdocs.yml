@@ -31,6 +31,6 @@ theme:
 
 nav:
   - Home: index.md
-  - Changelog: changelod.md
+  - Changelog: changelog.md
   - Source code: source.md
-  - How to use Simple-PiP with other apps: other-apps.md
+  - How to use simple-pip with other apps: other-apps.md

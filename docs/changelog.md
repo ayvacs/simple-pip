@@ -19,6 +19,12 @@ https://github.com/sleepiie/simple-pip/releases/tag/1.0.0
 
 ## Documentation
 
+### v1.1.2
+**April 16, 2021**
+
+* Added other apps tutorial
+* Small fixes
+
 ### v1.1.1
 **April 1, 2021**
 
