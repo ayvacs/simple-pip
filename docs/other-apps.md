@@ -6,7 +6,7 @@ Here's a tutorial I made if you're interested:
 
 1. Open a stream or video on any [Electron](https://electronjs.org) app.
 
-1. Copy the extension's [main script](https://raw.githubusercontent.com/sleepiie/simple-pip/main/src/script.js) to your clipboard.
+1. Copy the extension's [main script](https://raw.githubusercontent.com/uravgcatboy/simple-pip/main/src/script.js) to your clipboard.
 
 1. Open the developer tools on Twitch by pressing **Ctrl+Shift+I** (Windows) or **⌘+⌥+I** (macOS).
 

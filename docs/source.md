@@ -1,12 +1,12 @@
 # Source code
 
-The source code for the extension is available on [GitHub](https://github.com/sleepiie/simple-pip).
+The source code for the extension is available on [GitHub](https://github.com/uravgcatboy/simple-pip).
 
 ## Downloading the code
 
 ## via Releases
 
-1. Download the [latest release](https://github.com/sleepiie/simple-pip/releases) and unzip it
+1. Download the [latest release](https://github.com/uravgcatboy/simple-pip/releases) and unzip it
 2. Open Chrome's extension page (chrome://extensions)
 - Make sure *developer mode* is enabled on the top right so you can load the extension
 3. Select *Load extension*
@@ -14,7 +14,7 @@ The source code for the extension is available on [GitHub](https://github.com/sl
 
 ## via main branch
 
-1. Download the GitHub repository's code ![screenshot-download-example.png](https://raw.githubusercontent.com/sleepiie/simple-pip/main/screenshot-download-example.png)
+1. Download the GitHub repository's code ![screenshot-download-example.png](https://raw.githubusercontent.com/uravgcatboy/simple-pip/main/screenshot-download-example.png)
 2. Unzip the file
 3. Open Chrome's extension page (chrome://extensions)
 - Make sure *developer mode* is enabled on the top right so you can load the extension
@@ -26,20 +26,20 @@ The source code for the extension is available on [GitHub](https://github.com/sl
 <h1 align="center">simple-pip</h1>
 
 <p align="center">
-  <a href="https://github.com/sleepiie/simple-pip/releases" target="_blank">
-    <img alt="version" src="https://img.shields.io/github/v/release/sleepiie/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/uravgcatboy/simple-pip/releases" target="_blank">
+    <img alt="version" src="https://img.shields.io/github/v/release/uravgcatboy/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/sleepiie/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="license" src="https://img.shields.io/github/license/sleepiie/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/uravgcatboy/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="license" src="https://img.shields.io/github/license/uravgcatboy/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/sleepiie/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="stars" src="https://img.shields.io/github/stars/sleepiie/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/uravgcatboy/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="stars" src="https://img.shields.io/github/stars/uravgcatboy/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/sleepiie/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="issues" src="https://img.shields.io/github/issues/sleepiie/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/uravgcatboy/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="issues" src="https://img.shields.io/github/issues/uravgcatboy/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/sleepiie/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="pull requests" src="https://img.shields.io/github/issues-pr/sleepiie/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/uravgcatboy/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="pull requests" src="https://img.shields.io/github/issues-pr/uravgcatboy/simple-pip?style=for-the-badge" />
   </a>
 </p>
 
