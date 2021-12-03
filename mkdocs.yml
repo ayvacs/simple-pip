@@ -1,6 +1,6 @@
 site_name: simple-pip
-repo_url: 'https://github.com/uravgcatboy/simple-pip'
-repo_name: uravgcatboy/simple-pip
+repo_url: 'https://github.com/frogweezer/simple-pip'
+repo_name: frogweezer/simple-pip
 theme:
   name: null
   custom_dir: mkdocs-material/material
