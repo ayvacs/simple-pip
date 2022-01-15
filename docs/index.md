@@ -1,22 +1,22 @@
-![Example image](https://raw.githubusercontent.com/frogweezer/simple-pip/main/screenshot.png)
+![Example image](https://raw.githubusercontent.com/ayvacs/simple-pip/main/screenshot.png)
 
 <h1 align="center">simple-pip</h1>
 
 <p align="center">
-  <a href="https://github.com/frogweezer/simple-pip/releases" target="_blank">
-    <img alt="version" src="https://img.shields.io/github/v/release/frogweezer/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/ayvacs/simple-pip/releases" target="_blank">
+    <img alt="version" src="https://img.shields.io/github/v/release/ayvacs/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/frogweezer/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="license" src="https://img.shields.io/github/license/frogweezer/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/ayvacs/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="license" src="https://img.shields.io/github/license/ayvacs/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/frogweezer/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="stars" src="https://img.shields.io/github/stars/frogweezer/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/ayvacs/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="stars" src="https://img.shields.io/github/stars/ayvacs/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/frogweezer/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="issues" src="https://img.shields.io/github/issues/frogweezer/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/ayvacs/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="issues" src="https://img.shields.io/github/issues/ayvacs/simple-pip?style=for-the-badge" />
   </a>
-  <a href="https://github.com/frogweezer/simple-pip/blob/master/LICENSE.md" target="_blank">
-    <img alt="pull requests" src="https://img.shields.io/github/issues-pr/frogweezer/simple-pip?style=for-the-badge" />
+  <a href="https://github.com/ayvacs/simple-pip/blob/master/LICENSE.md" target="_blank">
+    <img alt="pull requests" src="https://img.shields.io/github/issues-pr/ayvacs/simple-pip?style=for-the-badge" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 ## Installation
 
-1. Download the [latest release](https://github.com/frogweezer/simple-pip/releases) and unzip it
+1. Download the [latest release](https://github.com/ayvacs/simple-pip/releases) and unzip it
 2. Open Chrome's extension page (chrome://extensions)
 - Make sure *developer mode* is enabled on the top right so you can load the extension
 3. Select *Load extension*
@@ -42,7 +42,7 @@ To exit Picture-in-Picture mode, click the icon again. If a video is in picture-
 
 If you use Chrome Light Mode, a set of supplementary icons are available under the **light-mode-icons** branch.
 
-1. Download the [light mode icons](https://github.com/frogweezer/simple-pip/tree/light-mode-icons) branch and unzip it
-2. Make sure you have the [latest release](https://github.com/frogweezer/simple-pip/wiki/Installation) downloaded
+1. Download the [light mode icons](https://github.com/ayvacs/simple-pip/tree/light-mode-icons) branch and unzip it
+2. Make sure you have the [latest release](https://github.com/ayvacs/simple-pip/wiki/Installation) downloaded
 3. Before installing the extension, replace the images in */assets* with the ones you downloaded
 4. Now you can install the extension!
