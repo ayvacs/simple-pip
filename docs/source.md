@@ -14,7 +14,7 @@ The source code for the extension is available on [GitHub](https://github.com/ay
 
 ## via main branch
 
-1. Download the GitHub repository's code ![screenshot-download-example.png](https://raw.githubusercontent.com/ayvacs/simple-pip/main/screenshot-download-example.png)
+1. Download the GitHub repository's code ![screenshot-download-example.png](https://raw.githubusercontent.com/ayvacs/simple-pip/main/assets/screenshot-download-example.png)
 2. Unzip the file
 3. Open Chrome's extension page (chrome://extensions)
 - Make sure *developer mode* is enabled on the top right so you can load the extension

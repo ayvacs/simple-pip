@@ -1,4 +1,4 @@
-![Example image](https://raw.githubusercontent.com/ayvacs/simple-pip/main/screenshot.png)
+![Example image](https://raw.githubusercontent.com/ayvacs/simple-pip/main/assets/screenshot.png)
 
 <h1 align="center">simple-pip</h1>
 
