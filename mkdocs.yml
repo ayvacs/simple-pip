@@ -20,6 +20,6 @@ theme:
 
 nav:
   - Home: index.md
-  - Changelog: changelog.md
+  - Changelog: https://github.com/ayvacs/simple-pip/releases
   - Source code: source.md
   - How to use simple-pip with other apps: other-apps.md
