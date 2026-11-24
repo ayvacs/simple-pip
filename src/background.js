@@ -1,8 +1,10 @@
-chrome.action.onClicked.addListener(async (tab) => {
+const browserAPI = globalThis.browser || globalThis.chrome;
+
+browserAPI.action.onClicked.addListener(async (tab) => {
     if (!tab.id) return;
 
     try {
-        await chrome.scripting.executeScript({
+        await browserAPI.scripting.executeScript({
             target: { tabId: tab.id, allFrames: true },
             files: ['script.js']
         });
