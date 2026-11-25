@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/wispaelis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://simple-pip.js.org
+  * I am wispaelis (https://keybase.io/wispaelis) on keybase.
+  * I have a public key ASD3QGJvuRXbuw_6c7AUiZkxTkI_fuk927dvK4WWW8snXAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f740626fb915dbbb0ffa73b0148999314e423f7ee93ddbb76f2b85965bcb275c0a",
+      "host": "keybase.io",
+      "kid": "0120f740626fb915dbbb0ffa73b0148999314e423f7ee93ddbb76f2b85965bcb275c0a",
+      "uid": "71ed2a3c3015bb0e789c9977030b3c19",
+      "username": "wispaelis"
+    },
+    "merkle_root": {
+      "ctime": 1795562295,
+      "hash": "5c9b2cb6c2415b9f1e895c3ab5017dc0cbec55de044f6da886ad3fc84e399fa82127ef8572d5dd75b8d42b073f072d2b7ff66db56d5d1ce79fefe7ee957d5057",
+      "hash_meta": "3580e80d735de5c20f18d3ec379933a0e9495df52ecfc4da2981cf48a2cf8aea",
+      "seqno": 27901471
+    },
+    "service": {
+      "entropy": "Fol6eS1jn32S9IOAaPSH30B8",
+      "hostname": "simple-pip.js.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.6.3"
+  },
+  "ctime": 1795562598,
+  "expire_in": 504576000,
+  "prev": "ba49767426e8cb86cc6d9052b15ecc418826bbd040f19e8d5d7255c5260ac60c",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg90Bib7kV27sP+nOwFImZMU5CP37pPdu3byuFllvLJ1wKp3BheWxvYWTESpcCEMQgukl2dCboy4bMbZBSsV7MQYgmu9BA8Z6NXXJVxSYKxgzEILk4RdJTLGD3erH8RmXVrFEdoN/7KprFDWh13bVZgAIAAgHCo3NpZ8RAAOj6+6LVGdw/NbnTYDJq77wWRk77FT9DrECzri9CYaLfpU3Jfq2rQNRbx7l35ewA6PjQ4eBvS8ymjL7onIGSCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGG6eVSGyQhHqF6lTt8hpYBHF3wnk7GYP9Wo5YPPTlC/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wispaelis
+
+==================================================================
