@@ -1,7 +1,7 @@
 {
     "name": "Simple Picture-in-Picture",
     "description": "Watch videos using Picture-in-Picture; built for dark mode",
-    "version": "1.1.0",
+    "version": "2.0.0",
     "manifest_version": 3,
     "icons": {
         "128": "assets/icon128.png"
