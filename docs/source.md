@@ -7,19 +7,15 @@ The source code for the extension is available on [GitHub](https://github.com/ay
 ## via Releases
 
 1. Download the [latest release](https://github.com/ayvacs/simple-pip/releases) and unzip it
-2. Open Chrome's extension page (chrome://extensions)
-- Make sure *developer mode* is enabled on the top right so you can load the extension
-3. Select *Load extension*
-4. Select the release folder's *src* directory
+2. In Chrome: navigate to `chrome://extensions`, enable *Developer mode*, click *Load unpacked*, and select the `src` directory
+3. In Firefox: navigate to `about:debugging#/runtime/this-firefox`, click *Load Temporary Add-on...*, and select `src/manifest.json`
 
 ## via main branch
 
 1. Download the GitHub repository's code ![screenshot-download-example.png](https://raw.githubusercontent.com/ayvacs/simple-pip/main/assets/screenshot-download-example.png)
 2. Unzip the file
-3. Open Chrome's extension page (chrome://extensions)
-- Make sure *developer mode* is enabled on the top right so you can load the extension
-4. Select *Load extension*
-5. Select the release folder's *src* directory
+3. In Chrome: navigate to `chrome://extensions`, enable *Developer mode*, click *Load unpacked*, and select the `src` directory
+4. In Firefox: navigate to `about:debugging#/runtime/this-firefox`, click *Load Temporary Add-on...*, and select `src/manifest.json`
 
 <!--Footer -->
 
@@ -43,4 +39,4 @@ The source code for the extension is available on [GitHub](https://github.com/ay
   </a>
 </p>
 
-<p align="center">A simple Chrome extension to pop out videos.</p>
+<p align="center">A cross-platform extension that adds a button to pop out videos using the Picture-in-Picture API.</p>

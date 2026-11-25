@@ -1,5 +1,9 @@
 (async () => {
-    if (!document.pictureInPictureEnabled) {
+    if ('pictureInPictureEnabled' in document) {
+        if (!document.pictureInPictureEnabled) {
+            return;
+        }
+    } else if (!HTMLVideoElement.prototype.requestPictureInPicture) {
         return;
     }
 
@@ -22,12 +26,17 @@
 
     async function requestPictureInPicture(video) {
         try {
+            if (typeof video.requestPictureInPicture !== 'function') {
+                return;
+            }
             await video.requestPictureInPicture();
             video.setAttribute('__pip__', 'true');
             video.addEventListener('leavepictureinpicture', () => {
                 video.removeAttribute('__pip__');
             }, { once: true });
-            new ResizeObserver(maybeUpdatePictureInPictureVideo).observe(video);
+            if (typeof ResizeObserver === 'function') {
+                new ResizeObserver(maybeUpdatePictureInPictureVideo).observe(video);
+            }
         } catch (err) {
             console.error('Failed to enter Picture-in-Picture:', err);
         }
@@ -48,7 +57,9 @@
 
     if (document.pictureInPictureElement) {
         try {
-            await document.exitPictureInPicture();
+            if (typeof document.exitPictureInPicture === 'function') {
+                await document.exitPictureInPicture();
+            }
         } catch (err) {
             console.error('Failed to exit Picture-in-Picture:', err);
         }
@@ -62,7 +73,9 @@
 
     if (video.hasAttribute('__pip__')) {
         try {
-            await document.exitPictureInPicture();
+            if (typeof document.exitPictureInPicture === 'function') {
+                await document.exitPictureInPicture();
+            }
         } catch (err) {
             console.error('Failed to exit Picture-in-Picture:', err);
         }
